@@ -31,9 +31,7 @@
 - 👯 I’m sharing my vlog and cinematography video on [@Apoorve Verma](https://www.youtube.com/c/ApoorveVerma).
 
 ### Recently I'm coding in...
-<a href="https://github.com/iampawan">
-  <img align="center" height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorve8055&theme=dark&hide_langs_below=1" />
-</a>  <a href="https://github.com/apoorve8055">
+<a href="https://github.com/apoorve8055">
  <img align="center"  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=Apoorve8055&show_icons=true&theme=dark&line_height=27" alt="apoorve's github stats"/>
 </a>
 <div align="center">
