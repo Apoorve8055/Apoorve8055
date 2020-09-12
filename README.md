@@ -37,7 +37,7 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-<a href="https://www.buymeacoffee.com/ApoorveVerma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><a href="https://www.patreon.com/bePatron?u=42126351" data-patreon-widget-type="become-patron-button"><button style="height: 60px !important;width: 217px !important;color:Black">Become a Patron!</button></a>
+<a href="https://www.buymeacoffee.com/ApoorveVerma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Apoorve8055/count.svg" />
