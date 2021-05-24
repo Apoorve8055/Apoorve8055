@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning **Flutter**.
 - 👯 I’m sharing my vlog and cinematography video on [@Apoorve Verma](https://www.youtube.com/c/ApoorveVerma).
 
-### The Apoorve Verma Project Links:
+### Important Links:
 
 - 🌐 Main Website: https://apoorveverma.com
 - 📚 Blog: https://blog.apoorveverma.com
