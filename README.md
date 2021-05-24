@@ -35,6 +35,7 @@
 - 🌐 Main Website: https://apoorveverma.com
 - 📚 Blog: https://blog.apoorveverma.com
 - Google Developer Profile: https://developers.google.com/profile/u/106638280692918654806
+- Developer page on Google Play: https://play.google.com/store/apps/dev?id=7069831097454691382
 
 ### Recently I'm coding in...
 <a href="https://github.com/apoorve8055">
