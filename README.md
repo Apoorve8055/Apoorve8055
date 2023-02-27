@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I’m currently working on **ReactJS**.
-- 🌱 I’m currently learning **Flutter**.
+- 🌱 I’m currently learning **React Native**.
 - 👯 I’m sharing my vlog and cinematography video on [@Apoorve Verma](https://www.youtube.com/c/ApoorveVerma).
 
 ### Important Links:
