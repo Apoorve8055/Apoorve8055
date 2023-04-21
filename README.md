@@ -4,7 +4,7 @@
 <a href="[https://twitter.com/vApoorve](https://twitter.com/vApoorve)">
   <img align="left" alt="Apoorve's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-<a href="[https://www.linkedin.com/in/apoorve-k-916405131/](https://www.linkedin.com/in/apoorve-k-916405131/)">
+<a href="[https://www.linkedin.com/in/apoorveverma/](https://www.linkedin.com/in/apoorveverma/)">
   <img align="left" alt="Apoorve's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="[https://github.com/Apoorve8055](https://github.com/Apoorve8055)">
@@ -25,6 +25,9 @@
 ɪɴᴅɪᴀɴ ♕ | sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | Tech Entrepreneur
 <br/>
 <br/>
+Software engineer with 3+ years of experience in TCS. Skilled in React.js, Node.js, AWS, and other front-end and back-end development technologies. Seeking new opportunities to learn and grow within a reputable product-based company. Let's connect and explore how I can contribute to your team and help drive your business forward.
+<br/>
+<br/>
 
 - 🔭 I’m currently working on **ReactJS**.
 - 🌱 I’m currently learning **React Native**.
@@ -32,9 +35,8 @@
 
 ### Important Links:
 
-- 🌐 Main Website: https://apoorveverma.com
-- 📚 Blog: https://blog.apoorveverma.com
-- 🇬  Google Developer Profile: https://developers.google.com/profile/u/106638280692918654806
+- 🌐 Main Website & Blog: https://apoorveverma.com
+-  &nbsp; 🇬  &nbsp;Google Developer Profile: https://developers.google.com/profile/u/106638280692918654806
 - 📱 Developer page on Google Play: https://play.google.com/store/apps/dev?id=7069831097454691382
 
 ### Recently I'm coding in...
