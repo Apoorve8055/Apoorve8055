@@ -1,22 +1,22 @@
 
 ## Hola, I'm [Apoorve Verma!]([https://apoorvverma.in/](https://apoorvverma.in/)) 👋
 
-<a href="[https://twitter.com/vApoorve](https://twitter.com/vApoorve)">
+<a href="https://twitter.com/vApoorve">
   <img align="left" alt="Apoorve's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-<a href="[https://www.linkedin.com/in/apoorveverma/](https://www.linkedin.com/in/apoorveverma/)">
-  <img align="left" alt="Apoorve's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/apoorveverma/">
+  <img align="left" alt="Apoorve's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="[https://github.com/Apoorve8055](https://github.com/Apoorve8055)">
+<a href="https://github.com/Apoorve8055">
   <img align="left" alt="Apoorve's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="[https://www.instagram.com/apoorvekumarverma](https://www.instagram.com/apoorvekumarverma)">
+<a href="https://www.instagram.com/apoorvekumarverma">
   <img align="left" alt="Apoorve's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="[https://www.facebook.com/TheApoorveVerma](https://www.facebook.com/TheApoorveVerma)">
+<a href="https://www.facebook.com/TheApoorveVerma">
   <img align="left" alt="Apoorve's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="[https://www.youtube.com/c/ApoorveVerma](https://www.youtube.com/c/ApoorveVerma)">
+<a href="https://www.youtube.com/c/ApoorveVerma">
   <img align="left" alt="Apoorve's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
