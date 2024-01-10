@@ -25,7 +25,7 @@
 ɪɴᴅɪᴀɴ ♕ | sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ | Tech Entrepreneur
 <br/>
 <br/>
-Software engineer with 3+ years of experience in TCS. Skilled in React.js, Node.js, AWS, and other front-end and back-end development technologies. Seeking new opportunities to learn and grow within a reputable product-based company. Let's connect and explore how I can contribute to your team and help drive your business forward.
+Software engineer with 4+ years of experience in TCS. Skilled in React.js, Node.js, AWS, and other front-end and back-end development technologies. Seeking new opportunities to learn and grow within a reputable product-based company. Let's connect and explore how I can contribute to your team and help drive your business forward.
 <br/>
 <br/>
 
